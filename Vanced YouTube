@@ -1,0 +1,15 @@
+[
+  {
+    "appName": "Vanced",
+    "packageName": "com.biomes.vanced",
+    "versionCode": 90580525,
+    "updateUrl": "https://t.me/romanticboymizan1",
+    "title": "New Update Available",
+    "description": "A new version of Vanced is now available with premium features. Please update from our official channel to continue.",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2026-04-03",
+    "closeButtonText": "Exit",
+    "updateButtonText": "Update Now"
+  }
+]
